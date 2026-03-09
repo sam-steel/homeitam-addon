@@ -61,7 +61,7 @@ Smart homes require physical maintenance. HomeITAM tracks the lifecycle of your 
 
 When selling a house with a complex smart home setup, the buyer needs to know how to operate it.
 
-HomeITAM generates a "Handover Pack"—a clean, user-friendly PDF export that strips out the complex networking details and provides the new owner with exactly what they need: where the main hub is, how to reset the Wi-Fi, and a list of all the smart switches in the walls.
+HomeITAM generates a "Handover Pack"—a clean, user-friendly PDF export that strips out the complex networking details and provides the new owner with exactly what they need: where the cabling is ruinning, a list of all the smart switches in the walls and any other configurations that might make it easy to understand the pre-existing infrastructure.
 
 **How to use:**
 1. Navigate to the **Handover** page via the sidebar.
