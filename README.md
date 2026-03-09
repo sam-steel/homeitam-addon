@@ -9,7 +9,7 @@ Smart Home Infrastructure and Asset Management.
 3. Run the following command in the same directory:
 
 \`\`\`bash
-docker-compose up -d
+  docker-compose up -d
 \`\`\`
 
 4. Access the dashboard at `http://localhost:3000`.
