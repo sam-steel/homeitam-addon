@@ -16,4 +16,4 @@ docker-compose up -d
 5. The default password is `changeme123`. Please change this in the `docker-compose.yml` file!
 
 ## Licensing
-HomeITAM is free for up to 10 devices. To unlock unlimited devices, purchase a Pro license at [Lemon Squeezy]](https://myhomeitam.lemonsqueezy.com/checkout/buy/eefca3f6-1f8b-4304-bfda-2224ac911ac3).
+HomeITAM is free for up to 10 devices. To unlock unlimited devices, purchase a Pro license at [Lemon Squeezy](https://myhomeitam.lemonsqueezy.com/checkout/buy/eefca3f6-1f8b-4304-bfda-2224ac911ac3).
