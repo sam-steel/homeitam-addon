@@ -12,7 +12,7 @@ HomeITAM is a self-hosted platform designed to solve the physical reality of man
 - **Handover Protocol:** Generate a beautiful PDF export of your entire smart home infrastructure to hand over to a new buyer when you sell your house.
 - **Secure by Design:** Built with AES-256-GCM encryption for sensitive data, JWT authentication, and runs locally.
 
-## Licensing Model (Freemium)
+## Licensing Model
 
 HomeITAM operates on a freemium model:
 - **Free Tier:** Manage up to 10 physical devices for free forever. Perfect for small setups or testing.
